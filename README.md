@@ -35,4 +35,9 @@ Roadmap
 
 -Allow customizable board sizes
 
+Acknowledgments
+---------------
+
+The GUI for this project was created with the help of Eclipse WindowBuilder.
+
 
