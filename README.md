@@ -1,4 +1,4 @@
-                                                        ***S.O.S Game In Java***
+                                          ***S.O.S Game In Java***
 
 Overview
 --------
