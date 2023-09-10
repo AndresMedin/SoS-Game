@@ -40,4 +40,11 @@ Acknowledgments
 
 The GUI for this project was created with the help of Eclipse WindowBuilder.
 
+About the Repository
+--------------------
+
+This repository is being developed by Andres Medina as part of the requirements for the Computer Science 449 course, Foundations of Software Engineering. The task is to progressively update this repository throughout the semester, aiming to create a fully functional S.O.S game using Java. Eclipse serves as the IDE for development, specifically utilizing WindowBuilder and its accompanying libraries for creating the GUI. This GitHub repository serves the primary purpose of uploading files for professorial review.
+
+
+
 
